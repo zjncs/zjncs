@@ -11,13 +11,13 @@
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=zjncs&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zjncs" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img width="400" src="https://streak-stats.demolab.com?user=zjncs" alt="GitHub Streak" /></a>
      
 </p>
     
 <p align="center">
    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
