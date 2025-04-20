@@ -38,7 +38,7 @@
     <a href="https://space.bilibili.com/1143396497"><img src="https://img.shields.io/badge/哔哩哔哩-赵嘉宁-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://wakatime.com/@zjncs"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/zjncs"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://github.com/zjncs"><img src="https://komarev.com/ghpvc/?username=zjncs2&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
