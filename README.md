@@ -32,7 +32,7 @@
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/zjncs"><img src="https://img.shields.io/badge/GitHub-zjncs-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/zjn79"><img src="https://img.shields.io/badge/Gitee-zjn79-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/1143396497"><img src="https://img.shields.io/badge/哔哩哔哩-赵嘉宁-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/1143396497"><img src="https://img.shields.io/badge/哔哩哔哩-zjn-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
    
     
 </p>
