@@ -6,7 +6,7 @@
 <h3 align="center">💻 Independent Spirit · Free Mind · Keep Coding 🚀</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Always+Learning+📚;Always+Coding+💻;Open+Source+Enthusiast+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Independent+Spirit+%26+Free+Mind;Always+Learning+%F0%9F%93%9A+Always+Coding;Keep+it+simple,+stupid;Code+is+poetry+in+motion+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=zh_CN&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -68,7 +68,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjncs&layout=compact&theme=vue&hide_border=true&locale=zh_CN&langs_count=8" alt="Top Languages"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjncs&layout=compact&theme=vue&hide_border=true&locale=zh_CN&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zjncs&theme=vue&no-frame=true&no-bg=false&row=2&column=6" alt="Trophies"/>
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zjncs&theme=vue&no-frame=true&no-bg=true&row=2&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
