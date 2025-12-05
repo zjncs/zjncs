@@ -1,1 +1,20 @@
+name: Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜自动更新
+  workflow_dispatch:  # 也可以手动触发更新
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Wakatime Stats
+      uses: wakatime/action-readme-stats@v1
+      with:
+        api_key: ${{ secrets.WAKATIME_API_KEY }}  # 读取你在 secrets 中设置的 API 密钥
 
