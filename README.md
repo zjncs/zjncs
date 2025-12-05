@@ -37,7 +37,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=Panda&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=theme=gruvbox-light&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
 </p>
 
 ---
