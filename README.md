@@ -29,7 +29,6 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=zh_CN&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img width="49%" src="https://streak-stats.demolab.com?user=zjncs&theme=vue&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
@@ -62,14 +61,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-
-### 📈 Most Used Languages
-
-<p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjncs&layout=compact&theme=vue&hide_border=true&locale=zh_CN&langs_count=8" alt="Most Used Languages"/>
-</p>
 
 ---
 
