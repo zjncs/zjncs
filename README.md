@@ -68,10 +68,10 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zjncs&theme=vue&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies"/>
+### 🏆 Trophies
 
-
-
+<p align="center">
+  <img src="https://github.com/zjncs/zjncs/blob/main/github-trophies.svg" alt="Trophies" />
 </p>
 
 ---
