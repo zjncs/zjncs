@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # 每天运行
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 基础配置
+          user: zjncs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # 插件：语言分析
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          
+          # 插件：Isometric Commit Calendar (那个立体的提交日历)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
