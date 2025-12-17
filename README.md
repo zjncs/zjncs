@@ -68,10 +68,11 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  [![Holopin](https://holopin.io/api/user/board?user=zjncs&style=rank)](https://holopin.io/@zjncs)
+  <a href="https://holopin.io/@zjncs">
+    <img src="https://holopin.io/api/user/board?user=zjncs&style=vue" alt="Holopin Badges" />
+  </a>
 </p>
 
----
 
 ### 🌐 Connect With Me
 
