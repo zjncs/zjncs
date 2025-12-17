@@ -68,10 +68,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github.com/zjncs/zjncs/blob/main/github-trophies.svg" alt="Trophies" />
+  [![Holopin](https://holopin.io/api/user/board?user=zjncs&style=rank)](https://holopin.io/@zjncs)
 </p>
 
 ---
