@@ -3,18 +3,29 @@ name: Wakatime Stats
 on:
   schedule:
     - cron: '0 0 * * *'  # 每天午夜自动更新
-  workflow_dispatch:  # 也可以手动触发更新
+  workflow_dispatch:  # 也可以手动触发更新，支持强制刷新
+    inputs:
+      force_refresh:
+        description: "Force refresh Wakatime badges"
+        type: boolean
+        required: false
+        default: "false"
 
 jobs:
   update-stats:
+    timeout-minutes: 30
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Wakatime Stats
-      uses: wakatime/action-readme-stats@v1
-      with:
-        api_key: ${{ secrets.WAKATIME_API_KEY }}  # 读取你在 secrets 中设置的 API 密钥
+      - name: Wakatime Stats
+        if: ${{ success() || failure() }}
+        continue-on-error: true
+        uses: wakatime/action-readme-stats@v1
+        with:
+          api_key: ${{ secrets.WAKATIME_API_KEY }}  # 读取你在 secrets 中设置的 API 密钥
 
