@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26de81,100:41B883&height=200&section=header&text=Always%20Code!&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header"/>
+  <img width="95%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26de81,100:41B883&height=180&section=header&text=Always%20Code!&fontSize=54&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </p>
 
 <h1 align="center">I'm zjncs</h1>
 <h3 align="center">💻 Independent Spirit · Free Mind · Keep Coding 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Independent+Spirit+%26+Free+Mind;Always+Learning+%F0%9F%93%9A+Always+Coding;Keep+it+simple,+stupid;Code+is+poetry+in+motion+%E2%9C%A8" alt="Typing SVG" />
+  <img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=450&lines=Independent+Spirit+%26+Free+Mind;Always+Learning+%F0%9F%93%9A+Always+Coding;Keep+it+simple,+stupid;Code+is+poetry+in+motion+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -49,25 +49,16 @@
 
 ## 📊 动态统计
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=zjncs&theme=vue&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
+  <img width="46%" src="https://github-profile-trophy.vercel.app/?username=zjncs&theme=vue&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=3" alt="GitHub Profile Trophy" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-light&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-light&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/zjncs/zjncs/main/github-metrics.svg" alt="GitHub Metrics（每日更新）" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/zjncs/zjncs/output/github-contribution-grid-snake.svg" alt="Contribution Snake（每日更新）" />
-  <img width="49%" src="https://raw.githubusercontent.com/zjncs/zjncs/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark（每日更新）" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zjncs&theme=vue&hide_border=true" alt="Wakatime Stats（每日同步）" />
+  <img width="90%" src="https://raw.githubusercontent.com/zjncs/zjncs/main/github-metrics.svg" alt="GitHub Metrics（每日更新）" />
 </p>
 
 <p align="center">
@@ -98,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26de81,100:41B883&height=120&section=footer" alt="Footer"/>
+  <img width="95%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26de81,100:41B883&height=110&section=footer" alt="Footer"/>
 </p>
 
 <p align="center">
