@@ -40,7 +40,7 @@
 ## 📊 动态统计
 <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
-  <img width="46%" src="https://streak-stats.demolab.com?user=zjncs&theme=vue&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="46%" src="https://github-profile-trophy.vercel.app/?username=zjncs&theme=vue&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=3" alt="GitHub Profile Trophy" />
 </p>
 
 <p align="center">
