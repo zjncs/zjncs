@@ -38,9 +38,9 @@
 ---
 
 ## 📊 动态统计
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
-  <img width="46%" src="https://github-profile-trophy.vercel.app/?username=zjncs&theme=vue&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=3" alt="GitHub Profile Trophy" />
+<p align="center" style="display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjncs&layout=compact&theme=vue&hide_border=true&locale=cn" />
 </p>
 
 <p align="center">
