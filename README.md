@@ -96,12 +96,12 @@
 ---
 
 <div align="center">
-
-<a href="https://holopin.io/@zjncs">
-  <img src="https://holopin.io/api/user/board?user=zjncs&style=vue" alt="Holopin Badges" />
-</a>
-
+  <a href="https://holopin.io/@zjncs">
+    <img src="https://holopin.io/api/user/board?user=zjncs&style=light"
+         alt="Holopin Badges" />
+  </a>
 </div>
+
 
 
 <p align="center">
