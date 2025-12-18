@@ -30,10 +30,15 @@
 ---
 
 ## 💻 技术栈
+
+<div align="center">
+  
 | 分类 | 工具/语言 |
 | --- | --- |
 | 语言 | ![Java](https://img.shields.io/badge/Java-41B883?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-41B883?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-41B883?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-41B883?style=flat&logo=javascript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-41B883?style=flat&logo=markdown&logoColor=white) |
 | 平台与工具 | ![Git](https://img.shields.io/badge/Git-41B883?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-41B883?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-41B883?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-41B883?style=flat&logo=visualstudiocode&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-41B883?style=flat&logo=latex&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-41B883?style=flat&logo=mathworks&logoColor=white) |
+
+</div>
 
 ---
 
