@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/github/followers/zjncs?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
----
-
-## 🧭 导航
-- [关于我](#-关于我)
-- [当前目标](#-当前目标正在做)
-- [技术栈](#-技术栈)
-- [动态统计](#-动态统计)
-- [作品与链接](#-作品与链接)
-
----
 
 ## 🎯 关于我
 - 🔭 正在探索新技术与最佳实践
@@ -49,8 +39,7 @@
 
 ## 📊 动态统计
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=zjncs&theme=vue&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
 </p>
 
 <p align="center">
