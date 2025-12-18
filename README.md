@@ -95,11 +95,14 @@
 
 ---
 
-<p align="center">
-  <a href="https://holopin.io/@zjncs">
-    <img src="https://holopin.io/api/user/board?user=zjncs&style=vue" alt="Holopin Badges" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://holopin.io/@zjncs">
+  <img src="https://holopin.io/api/user/board?user=zjncs&style=vue" alt="Holopin Badges" />
+</a>
+
+</div>
+
 
 <p align="center">
   <img width="95%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26de81,100:41B883&height=110&section=footer" alt="Footer"/>
