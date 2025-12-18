@@ -39,11 +39,11 @@
 
 ## 📊 动态统计
 <p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
+  <img width="68%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-light&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-light&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
