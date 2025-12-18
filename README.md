@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/github/followers/zjncs?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
----
-
-## 🧭 导航
-- [关于我](#-关于我)
-- [当前目标](#-当前目标正在做)
-- [技术栈](#-技术栈)
-- [动态统计](#-动态统计)
-- [作品与链接](#-作品与链接)
-
----
 
 ## 🎯 关于我
 - 🔭 正在探索新技术与最佳实践
