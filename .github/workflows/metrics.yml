@@ -1,14 +1,26 @@
 name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}] # 每天运行
-  workflow_dispatch:
+  workflow_dispatch:           # 允许手动触发，支持强制刷新
+    inputs:
+      force_refresh:
+        description: "Force refresh generated metrics"
+        type: boolean
+        required: false
+        default: "false"
   push: {branches: ["master", "main"]}
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
+    timeout-minutes: 30
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      statuses: read
     steps:
       - uses: lowlighter/metrics@latest
         with:

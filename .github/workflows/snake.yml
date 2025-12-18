@@ -3,14 +3,24 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # 每天 UTC 0点 (北京时间早上8点) 运行
-  workflow_dispatch:      # 允许手动运行
+  workflow_dispatch:      # 允许手动运行，支持强制刷新
+    inputs:
+      force_refresh:
+        description: "Force refresh generated snake animation"
+        type: boolean
+        required: false
+        default: "false"
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -25,5 +35,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
