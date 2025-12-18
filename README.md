@@ -62,15 +62,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/zjncs/zjncs/output/github-contribution-grid-snake.svg" alt="Contribution Snake（每日更新）" />
-  <img width="49%" src="https://raw.githubusercontent.com/zjncs/zjncs/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark（每日更新）" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zjncs&theme=vue&hide_border=true" alt="Wakatime Stats（每日同步）" />
-</p>
-
-<p align="center">
   <sub>以上统计由工作流自动拉取原始资源，保持每日更新。</sub>
 </p>
 
