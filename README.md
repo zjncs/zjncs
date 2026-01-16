@@ -61,22 +61,24 @@
 ---
 
 ## 📊 动态统计
-<p align="center" style="display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zjncs&show_icons=true&theme=vue&hide_border=true&locale=cn" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjncs&layout=compact&theme=vue&hide_border=true&locale=cn" />
-</p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&theme=github-light&hide_border=true&area=true&custom_title=贡献图" alt="Contribution Graph"/>
-</p>
+
+<div align="center">
+  
+<!-- GitHub 活动图 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&bg_color=ffffff&color=41b883&line=41b883&point=403d3d&area=true&hide_border=true" width="100%"/>
+
+<!-- 贡献热力图 -->
+<img src="https://ghchart.rshah.org/41B883/zjncs" alt="GitHub Contribution Chart" width="100%"/>
+
+</div>
+
 
 <p align="center">
   <img width="90%" src="https://raw.githubusercontent.com/zjncs/zjncs/main/github-metrics.svg" alt="GitHub Metrics（每日更新）" />
 </p>
 
-<p align="center">
-  <sub>以上统计由工作流自动拉取原始资源，保持每日更新。</sub>
-</p>
+
 
 ---
 
@@ -94,12 +96,13 @@
 </p>
 
 ---
+## ⭐ Star 历史
 
 <div align="center">
-  <a href="https://holopin.io/@zjncs">
-    <img src="https://holopin.io/api/user/board?user=zjncs&style=light"
-         alt="Holopin Badges" />
-  </a>
+
+<!-- 显示某个仓库的 Star 增长趋势 -->
+<img src="https://starchart.cc/zjncs/OpenLinkage.svg" width="100%"/>
+
 </div>
 
 
