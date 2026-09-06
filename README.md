@@ -95,15 +95,6 @@
   </a>
 </p>
 
----
-## ⭐ Star 历史
-
-<div align="center">
-
-<!-- 显示某个仓库的 Star 增长趋势 -->
-<img src="https://starchart.cc/zjncs/OpenLinkage.svg" width="100%"/>
-
-</div>
 
 
 
