@@ -65,9 +65,6 @@
 
 <div align="center">
   
-<!-- GitHub 活动图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zjncs&bg_color=ffffff&color=41b883&line=41b883&point=403d3d&area=true&hide_border=true" width="100%"/>
-
 <!-- 贡献热力图 -->
 <img src="https://ghchart.rshah.org/41B883/zjncs" alt="GitHub Contribution Chart" width="100%"/>
 
