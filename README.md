@@ -52,8 +52,8 @@
   
 | 分类 | 工具/语言 |
 | --- | --- |
-| 语言 | ![Java](https://img.shields.io/badge/Java-41B883?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-41B883?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-41B883?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-41B883?style=flat&logo=javascript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-41B883?style=flat&logo=markdown&logoColor=white) |
-| 平台与工具 | ![Git](https://img.shields.io/badge/Git-41B883?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-41B883?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-41B883?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-41B883?style=flat&logo=visualstudiocode&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-41B883?style=flat&logo=latex&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-41B883?style=flat&logo=mathworks&logoColor=white) |
+| 语言 | ![Java](https://img.shields.io/badge/Java-41B883?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-41B883?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-41B883?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-41B883?style=flat&logo=javascript&logoColor=white) |
+| 平台与工具 | ![Git](https://img.shields.io/badge/Git-41B883?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-41B883?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-41B883?style=flat&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
@@ -74,31 +74,9 @@
   <a href="https://github.com/lf-edge/ekuiper"><img src="https://img.shields.io/badge/eKuiper-3-41B883?style=flat" alt="eKuiper 3 merged"/></a>
   <a href="https://github.com/oss-compass/compass-web"><img src="https://img.shields.io/badge/OSS_Compass-3-41B883?style=flat" alt="OSS Compass 3 merged"/></a>
   <a href="https://github.com/apache/casbin"><img src="https://img.shields.io/badge/Casbin-2-41B883?style=flat" alt="Casbin 2 merged"/></a>
-  <a href="https://github.com/xmake-io/xmake"><img src="https://img.shields.io/badge/xmake-2-41B883?style=flat" alt="xmake 2 merged"/></a>
-  <a href="https://github.com/higress-group/higress"><img src="https://img.shields.io/badge/Higress-1-41B883?style=flat" alt="Higress 1 merged"/></a>
-  <a href="https://github.com/agentscope-ai/agentscope"><img src="https://img.shields.io/badge/AgentScope-1-41B883?style=flat" alt="AgentScope 1 merged"/></a>
 </p>
 
-**🔄 其他参与项目**
-
-<p>
-  <a href="https://github.com/apache/rocketmq"><img src="https://img.shields.io/badge/Apache_RocketMQ-41B883?style=flat" alt="Apache RocketMQ"/></a>
-  <a href="https://github.com/apache/hertzbeat"><img src="https://img.shields.io/badge/Apache_HertzBeat-41B883?style=flat" alt="Apache HertzBeat"/></a>
-  <a href="https://github.com/helm/helm"><img src="https://img.shields.io/badge/Helm-41B883?style=flat" alt="Helm"/></a>
-  <a href="https://github.com/karmada-io/karmada"><img src="https://img.shields.io/badge/Karmada-41B883?style=flat" alt="Karmada"/></a>
-  <a href="https://github.com/OpenTenBase/OpenTenBase"><img src="https://img.shields.io/badge/OpenTenBase-41B883?style=flat" alt="OpenTenBase"/></a>
-  <a href="https://github.com/IvorySQL/IvorySQL"><img src="https://img.shields.io/badge/IvorySQL-41B883?style=flat" alt="IvorySQL"/></a>
-  <a href="https://github.com/secretflow/scql"><img src="https://img.shields.io/badge/SCQL-41B883?style=flat" alt="SCQL"/></a>
-  <a href="https://github.com/langgenius/dify"><img src="https://img.shields.io/badge/Dify-41B883?style=flat" alt="Dify"/></a>
-  <a href="https://github.com/verl-project/verl"><img src="https://img.shields.io/badge/Verl-41B883?style=flat" alt="Verl"/></a>
-  <a href="https://github.com/agentuniverse-ai/agentUniverse"><img src="https://img.shields.io/badge/agentUniverse-41B883?style=flat" alt="agentUniverse"/></a>
-  <a href="https://github.com/qboson/kaiwu-pytorch-plugin"><img src="https://img.shields.io/badge/Kaiwu_PyTorch_Plugin-41B883?style=flat" alt="Kaiwu PyTorch Plugin"/></a>
-  <a href="https://github.com/agentic-os-org/ANOLISA"><img src="https://img.shields.io/badge/ANOLISA-41B883?style=flat" alt="ANOLISA"/></a>
-  <a href="https://github.com/ccfos/huatuo"><img src="https://img.shields.io/badge/HUATUO-41B883?style=flat" alt="HUATUO"/></a>
-  <a href="https://atomgit.com/mindspore/vllm-mindspore"><img src="https://img.shields.io/badge/vLLM_MindSpore-AtomGit-41B883?style=flat" alt="vLLM-MindSpore"/></a>
-  <a href="https://gitcode.com/openkylin/ukui-quick"><img src="https://img.shields.io/badge/openKylin_UKUI-GitCode-41B883?style=flat" alt="openKylin UKUI"/></a>
-  <a href="https://github.com/rust-lang/async-book"><img src="https://img.shields.io/badge/Rust_Async_Book-41B883?style=flat" alt="Rust async-book"/></a>
-</p>
+另有 RocketMQ、Helm、Dify、OpenTenBase 等 30+ 项目贡献进行中
 
 </div>
 
