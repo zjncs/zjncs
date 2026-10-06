@@ -64,40 +64,41 @@
 
 <div align="center">
   
-活跃于 Apache / LF Edge 生态与国内开源社区，向 **40+** 个上游项目提交过 PR（GitHub · GitCode · AtomGit），其中 **45 个已被合并**，以缺陷修复与测试增强为主 🔧
+向 **40+** 个开源项目提交过 PR，**45** 个已被上游合并
 
-**已合并的上游项目（部分代表）**
-
-| 项目 | 贡献方向 | 已合并 |
-| --- | --- | :---: |
-| [![RocketMQ Dashboard](https://img.shields.io/badge/RocketMQ_Dashboard-41B883?style=flat&logo=apacherocketmq&logoColor=white)](https://github.com/apache/rocketmq-dashboard) | 控制台功能修复：消费组 / 告警 / ACL / AI 助手等，附回归测试 | **23** |
-| [![Casdoor](https://img.shields.io/badge/Casdoor-41B883?style=flat&logo=casdoor&logoColor=white)](https://github.com/casdoor/casdoor) | OAuth、支付回调、策略更新等认证缺陷修复 | **5** |
-| [![CoreDNS](https://img.shields.io/badge/CoreDNS-41B883?style=flat&logo=coredns&logoColor=white)](https://github.com/coredns/coredns) | rewrite / k8s_external / autopath 插件空指针 panic 修复 | **3** |
-| [![eKuiper](https://img.shields.io/badge/eKuiper-41B883?style=flat&logoColor=white)](https://github.com/lf-edge/ekuiper) | SQL 词法器与类型转换缺陷修复 | **3** |
-| [![OSS Compass](https://img.shields.io/badge/OSS_Compass-41B883?style=flat&logoColor=white)](https://github.com/oss-compass/compass-web) | 生态评估看板图表与数据聚合修复 | **3** |
-| [![Casbin](https://img.shields.io/badge/Casbin-41B883?style=flat&logo=casbin&logoColor=white)](https://github.com/apache/casbin) | 策略加载与缓存缓冲区缺陷修复 | **2** |
-| [![xmake](https://img.shields.io/badge/xmake-41B883?style=flat&logo=xmake&logoColor=white)](https://github.com/xmake-io/xmake) | 路径匹配转义与 Lua JSON 解码增强 | **2** |
-| [![Higress](https://img.shields.io/badge/Higress-41B883?style=flat&logo=higress&logoColor=white)](https://github.com/higress-group/higress) [![AgentScope](https://img.shields.io/badge/AgentScope-41B883?style=flat&logoColor=white)](https://github.com/agentscope-ai/agentscope) | 文档修复 | **各 1** |
-
-**活跃贡献中 / 其他参与项目**
+**🏆 已合并**
 
 <p>
-  <a href="https://github.com/apache/rocketmq"><img src="https://img.shields.io/badge/Apache_RocketMQ-41B883?style=flat&logo=apacherocketmq&logoColor=white" alt="Apache RocketMQ"/></a>
-  <a href="https://github.com/apache/hertzbeat"><img src="https://img.shields.io/badge/Apache_HertzBeat-41B883?style=flat&logo=hertzbeat&logoColor=white" alt="Apache HertzBeat"/></a>
-  <a href="https://github.com/helm/helm"><img src="https://img.shields.io/badge/Helm-41B883?style=flat&logo=helm&logoColor=white" alt="Helm"/></a>
-  <a href="https://github.com/karmada-io/karmada"><img src="https://img.shields.io/badge/Karmada-41B883?style=flat&logo=karmada&logoColor=white" alt="Karmada"/></a>
-  <a href="https://github.com/OpenTenBase/OpenTenBase"><img src="https://img.shields.io/badge/OpenTenBase-41B883?style=flat&logo=opentenbase&logoColor=white" alt="OpenTenBase"/></a>
-  <a href="https://github.com/IvorySQL/IvorySQL"><img src="https://img.shields.io/badge/IvorySQL-41B883?style=flat&logo=ivorysql&logoColor=white" alt="IvorySQL"/></a>
-  <a href="https://github.com/secretflow/scql"><img src="https://img.shields.io/badge/SCQL-41B883?style=flat&logoColor=white" alt="SCQL"/></a>
-  <a href="https://github.com/langgenius/dify"><img src="https://img.shields.io/badge/Dify-41B883?style=flat&logo=dify&logoColor=white" alt="Dify"/></a>
-  <a href="https://github.com/verl-project/verl"><img src="https://img.shields.io/badge/Verl-41B883?style=flat&logoColor=white" alt="Verl"/></a>
-  <a href="https://github.com/agentuniverse-ai/agentUniverse"><img src="https://img.shields.io/badge/agentUniverse-41B883?style=flat&logoColor=white" alt="agentUniverse"/></a>
-  <a href="https://github.com/qboson/kaiwu-pytorch-plugin"><img src="https://img.shields.io/badge/Kaiwu_PyTorch_Plugin-41B883?style=flat&logo=pytorch&logoColor=white" alt="Kaiwu PyTorch Plugin"/></a>
-  <a href="https://github.com/agentic-os-org/ANOLISA"><img src="https://img.shields.io/badge/ANOLISA-41B883?style=flat&logoColor=white" alt="ANOLISA"/></a>
-  <a href="https://github.com/ccfos/huatuo"><img src="https://img.shields.io/badge/HUATUO-41B883?style=flat&logoColor=white" alt="HUATUO"/></a>
-  <a href="https://atomgit.com/mindspore/vllm-mindspore"><img src="https://img.shields.io/badge/vLLM_MindSpore-AtomGit-41B883?style=flat&logo=mindspore&logoColor=white" alt="vLLM-MindSpore"/></a>
-  <a href="https://gitcode.com/openkylin/ukui-quick"><img src="https://img.shields.io/badge/openKylin_UKUI-GitCode-41B883?style=flat&logo=openkylin&logoColor=white" alt="openKylin UKUI"/></a>
-  <a href="https://github.com/rust-lang/async-book"><img src="https://img.shields.io/badge/Rust_Async_Book-41B883?style=flat&logo=rust&logoColor=white" alt="Rust async-book"/></a>
+  <a href="https://github.com/apache/rocketmq-dashboard"><img src="https://img.shields.io/badge/RocketMQ_Dashboard-23-41B883?style=flat" alt="RocketMQ Dashboard 23 merged"/></a>
+  <a href="https://github.com/casdoor/casdoor"><img src="https://img.shields.io/badge/Casdoor-5-41B883?style=flat" alt="Casdoor 5 merged"/></a>
+  <a href="https://github.com/coredns/coredns"><img src="https://img.shields.io/badge/CoreDNS-3-41B883?style=flat" alt="CoreDNS 3 merged"/></a>
+  <a href="https://github.com/lf-edge/ekuiper"><img src="https://img.shields.io/badge/eKuiper-3-41B883?style=flat" alt="eKuiper 3 merged"/></a>
+  <a href="https://github.com/oss-compass/compass-web"><img src="https://img.shields.io/badge/OSS_Compass-3-41B883?style=flat" alt="OSS Compass 3 merged"/></a>
+  <a href="https://github.com/apache/casbin"><img src="https://img.shields.io/badge/Casbin-2-41B883?style=flat" alt="Casbin 2 merged"/></a>
+  <a href="https://github.com/xmake-io/xmake"><img src="https://img.shields.io/badge/xmake-2-41B883?style=flat" alt="xmake 2 merged"/></a>
+  <a href="https://github.com/higress-group/higress"><img src="https://img.shields.io/badge/Higress-1-41B883?style=flat" alt="Higress 1 merged"/></a>
+  <a href="https://github.com/agentscope-ai/agentscope"><img src="https://img.shields.io/badge/AgentScope-1-41B883?style=flat" alt="AgentScope 1 merged"/></a>
+</p>
+
+**🔄 其他参与项目**
+
+<p>
+  <a href="https://github.com/apache/rocketmq"><img src="https://img.shields.io/badge/Apache_RocketMQ-41B883?style=flat" alt="Apache RocketMQ"/></a>
+  <a href="https://github.com/apache/hertzbeat"><img src="https://img.shields.io/badge/Apache_HertzBeat-41B883?style=flat" alt="Apache HertzBeat"/></a>
+  <a href="https://github.com/helm/helm"><img src="https://img.shields.io/badge/Helm-41B883?style=flat" alt="Helm"/></a>
+  <a href="https://github.com/karmada-io/karmada"><img src="https://img.shields.io/badge/Karmada-41B883?style=flat" alt="Karmada"/></a>
+  <a href="https://github.com/OpenTenBase/OpenTenBase"><img src="https://img.shields.io/badge/OpenTenBase-41B883?style=flat" alt="OpenTenBase"/></a>
+  <a href="https://github.com/IvorySQL/IvorySQL"><img src="https://img.shields.io/badge/IvorySQL-41B883?style=flat" alt="IvorySQL"/></a>
+  <a href="https://github.com/secretflow/scql"><img src="https://img.shields.io/badge/SCQL-41B883?style=flat" alt="SCQL"/></a>
+  <a href="https://github.com/langgenius/dify"><img src="https://img.shields.io/badge/Dify-41B883?style=flat" alt="Dify"/></a>
+  <a href="https://github.com/verl-project/verl"><img src="https://img.shields.io/badge/Verl-41B883?style=flat" alt="Verl"/></a>
+  <a href="https://github.com/agentuniverse-ai/agentUniverse"><img src="https://img.shields.io/badge/agentUniverse-41B883?style=flat" alt="agentUniverse"/></a>
+  <a href="https://github.com/qboson/kaiwu-pytorch-plugin"><img src="https://img.shields.io/badge/Kaiwu_PyTorch_Plugin-41B883?style=flat" alt="Kaiwu PyTorch Plugin"/></a>
+  <a href="https://github.com/agentic-os-org/ANOLISA"><img src="https://img.shields.io/badge/ANOLISA-41B883?style=flat" alt="ANOLISA"/></a>
+  <a href="https://github.com/ccfos/huatuo"><img src="https://img.shields.io/badge/HUATUO-41B883?style=flat" alt="HUATUO"/></a>
+  <a href="https://atomgit.com/mindspore/vllm-mindspore"><img src="https://img.shields.io/badge/vLLM_MindSpore-AtomGit-41B883?style=flat" alt="vLLM-MindSpore"/></a>
+  <a href="https://gitcode.com/openkylin/ukui-quick"><img src="https://img.shields.io/badge/openKylin_UKUI-GitCode-41B883?style=flat" alt="openKylin UKUI"/></a>
+  <a href="https://github.com/rust-lang/async-book"><img src="https://img.shields.io/badge/Rust_Async_Book-41B883?style=flat" alt="Rust async-book"/></a>
 </p>
 
 </div>
