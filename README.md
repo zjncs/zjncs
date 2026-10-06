@@ -38,11 +38,7 @@
 
 <div align="center">
   
-构建更简洁的个人工具链并沉淀复盘
-
-提升前后端协作效率与自动化程度
-
-持续优化开源贡献节奏，保持活跃
+研究方向：Computer-Use Agent, Mobile LLM, GUI Agent, AI for Software Engineering, Human-Agent Interaction, LLM
 
 </div>
 
