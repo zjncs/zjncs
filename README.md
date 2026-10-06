@@ -109,9 +109,6 @@
   <a href="https://gitee.com/zjn79">
     <img src="https://img.shields.io/badge/Gitee-zjn79-41B883?style=flat&logo=gitee&logoColor=white" alt="Gitee"/>
   </a>
-  <a href="https://space.bilibili.com/1143396497">
-    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-zjn-41B883?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/>
-  </a>
 </p>
 
 
