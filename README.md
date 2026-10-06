@@ -14,32 +14,39 @@
 </p>
 
 
-## `$ whoami`
+## 🎯 关于我
 
-```json
-{
-  "user": "zjncs",
-  "exploring": "新技术与最佳实践",
-  "habits": "每日学习与输出",
-  "loves": "用代码解决问题",
-  "belief": "持续学习的力量",
-  "fun_fact": "Code is poetry in motion ✨"
-}
-```
+<div align="center">
+  
+🔭 正在探索新技术与最佳实践
 
-### `$ cat TODO.md`
+🌱 保持每日学习与输出
 
-```yaml
-- [ ] 构建更简洁的个人工具链并沉淀复盘
-- [ ] 提升前后端协作效率与自动化程度
-- [ ] 持续优化开源贡献节奏，保持活跃
-```
+💡 热爱用代码解决问题
+
+🎓 坚信持续学习的力量
+
+⚡ Fun fact: Code is poetry in motion
+
+</div>
+
+### 🎯 当前目标/正在做
+
+<div align="center">
+  
+构建更简洁的个人工具链并沉淀复盘
+
+提升前后端协作效率与自动化程度
+
+持续优化开源贡献节奏，保持活跃
+
+</div>
 
 
 
 ---
 
-## `$ ls ~/stack`
+## 💻 技术栈
 
 <div align="center">
   
@@ -52,11 +59,13 @@
 
 ---
 
-## `$ git shortlog -sn`
+## 🤝 参与过的开源项目
 
 <div align="center">
   
-<code># 45 PRs merged · 40+ upstream repos · GitHub / GitCode / AtomGit</code>
+向 **40+** 个开源项目提交过 PR，**45** 个已被上游合并
+
+**🏆 已合并**
 
 <p>
   <a href="https://github.com/apache/rocketmq-dashboard"><img src="https://img.shields.io/badge/RocketMQ_Dashboard-23-41B883?style=flat" alt="RocketMQ Dashboard 23 merged"/></a>
@@ -70,7 +79,7 @@
   <a href="https://github.com/agentscope-ai/agentscope"><img src="https://img.shields.io/badge/AgentScope-1-41B883?style=flat" alt="AgentScope 1 merged"/></a>
 </p>
 
-<code># in progress</code>
+**🔄 其他参与项目**
 
 <p>
   <a href="https://github.com/apache/rocketmq"><img src="https://img.shields.io/badge/Apache_RocketMQ-41B883?style=flat" alt="Apache RocketMQ"/></a>
@@ -95,7 +104,7 @@
 
 ---
 
-## `$ neofetch`
+## 📊 动态统计
 
 
 <div align="center">
@@ -114,7 +123,7 @@
 
 ---
 
-## `$ cat links.txt`
+## 🌐 作品与链接
 <p align="center">
   <a href="https://github.com/zjncs">
     <img src="https://img.shields.io/badge/GitHub-zjncs-41B883?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -135,6 +144,6 @@
 </p>
 
 <p align="center">
-  <samp>zjncs@github:~$ exit 0</samp><br/>
-  <sub>⭐️ Keep it simple, stupid · Code with passion ⭐️ · Made with ❤️ by zjncs</sub>
+  <i>⭐️ Keep it simple, stupid · Code with passion ⭐️</i><br/>
+  <sub>Made with ❤️ by zjncs</sub>
 </p>
