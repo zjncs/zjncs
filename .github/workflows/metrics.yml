@@ -33,11 +33,22 @@ jobs:
           REPOS=$(gh api "users/$U" --jq '.public_repos')
           STARS=$(gh api "users/$U/repos?per_page=100" --paginate --jq '.[].stargazers_count' | awk '{t+=$1} END {print t+0}')
           COMMITS=$(gh api "search/commits?q=author:$U" --jq '.total_count')
-          gh api "search/commits?q=author:$U&per_page=100" --paginate --jq '.items[].repository.full_name' | sort -u | while read -r r; do
-            s=$(gh api "repos/$r" --jq '.stargazers_count' 2>/dev/null || echo 0)
-            case "$r" in "$U"/*) ;; *) echo "$s" ;; esac
+          : > /tmp/commit_repos.txt
+          page=1
+          while :; do
+            resp=$(gh api "search/commits?q=author:$U&per_page=100&page=$page" 2>/dev/null) || { sleep 8; resp=$(gh api "search/commits?q=author:$U&per_page=100&page=$page" 2>/dev/null) || break; }
+            [ -z "$resp" ] && break
+            jq -r '.items[].repository.full_name' <<<"$resp" >> /tmp/commit_repos.txt
+            [ "$(jq '.items | length' <<<"$resp")" -lt 100 ] && break
+            page=$((page+1))
+            sleep 3
+          done
+          sort -u /tmp/commit_repos.txt | while read -r r; do
+            s=$(gh api "repos/$r" --jq '.stargazers_count' 2>/dev/null) || s=$(gh api "repos/$r" --jq '.stargazers_count' 2>/dev/null) || s=0
+            case "$r" in "$U"/*) ;; *) echo "${s:-0}" ;; esac
           done | awk '{t+=$1} END {print t+0}' > /tmp/upstream_stars
           UPSTARS=$(cat /tmp/upstream_stars)
+          [ "$UPSTARS" -gt 0 ] || { echo "::error::upstream stars lookup failed"; exit 1; }
           jq -n --argjson r "$REPOS" --argjson s "$STARS" --argjson c "$COMMITS" --argjson u "$UPSTARS" \
             '{repos:$r, stars:$s, commits:$c, upstream_stars:$u}' > stats.json
           cat stats.json
