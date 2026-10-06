@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate stats.json
         env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -e
           U=zjncs
