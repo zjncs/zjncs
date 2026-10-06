@@ -63,20 +63,20 @@
 
 <div align="center">
   
-向 **40+** 个开源项目提交过 PR，**45** 个已被上游合并
+向多个开源项目提交过 PR，部分已被上游合并
 
 **🏆 已合并**
 
 <p>
-  <a href="https://github.com/apache/rocketmq-dashboard"><img src="https://img.shields.io/badge/RocketMQ_Dashboard-23-41B883?style=flat" alt="RocketMQ Dashboard 23 merged"/></a>
-  <a href="https://github.com/casdoor/casdoor"><img src="https://img.shields.io/badge/Casdoor-5-41B883?style=flat" alt="Casdoor 5 merged"/></a>
-  <a href="https://github.com/coredns/coredns"><img src="https://img.shields.io/badge/CoreDNS-3-41B883?style=flat" alt="CoreDNS 3 merged"/></a>
-  <a href="https://github.com/lf-edge/ekuiper"><img src="https://img.shields.io/badge/eKuiper-3-41B883?style=flat" alt="eKuiper 3 merged"/></a>
-  <a href="https://github.com/oss-compass/compass-web"><img src="https://img.shields.io/badge/OSS_Compass-3-41B883?style=flat" alt="OSS Compass 3 merged"/></a>
-  <a href="https://github.com/apache/casbin"><img src="https://img.shields.io/badge/Casbin-2-41B883?style=flat" alt="Casbin 2 merged"/></a>
+  <a href="https://github.com/apache/rocketmq-dashboard"><img src="https://img.shields.io/badge/RocketMQ_Dashboard-41B883?style=flat" alt="RocketMQ Dashboard"/></a>
+  <a href="https://github.com/casdoor/casdoor"><img src="https://img.shields.io/badge/Casdoor-41B883?style=flat" alt="Casdoor"/></a>
+  <a href="https://github.com/coredns/coredns"><img src="https://img.shields.io/badge/CoreDNS-41B883?style=flat" alt="CoreDNS"/></a>
+  <a href="https://github.com/lf-edge/ekuiper"><img src="https://img.shields.io/badge/eKuiper-41B883?style=flat" alt="eKuiper"/></a>
+  <a href="https://github.com/oss-compass/compass-web"><img src="https://img.shields.io/badge/OSS_Compass-41B883?style=flat" alt="OSS Compass"/></a>
+  <a href="https://github.com/apache/casbin"><img src="https://img.shields.io/badge/Casbin-41B883?style=flat" alt="Casbin"/></a>
 </p>
 
-另有 RocketMQ、Helm、Dify、OpenTenBase 等 30+ 项目贡献进行中
+另有 RocketMQ、Helm、Dify、OpenTenBase 等项目贡献进行中
 
 </div>
 
