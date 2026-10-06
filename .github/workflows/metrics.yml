@@ -22,6 +22,36 @@ jobs:
       contents: write
       statuses: read
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats.json
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          set -e
+          U=zjncs
+          REPOS=$(gh api "users/$U" --jq '.public_repos')
+          STARS=$(gh api "users/$U/repos?per_page=100" --paginate --jq '.[].stargazers_count' | awk '{t+=$1} END {print t+0}')
+          COMMITS=$(gh api "search/commits?q=author:$U" --jq '.total_count')
+          gh api "search/commits?q=author:$U&per_page=100" --paginate --jq '.items[].repository.full_name' | sort -u | while read -r r; do
+            s=$(gh api "repos/$r" --jq '.stargazers_count' 2>/dev/null || echo 0)
+            case "$r" in "$U"/*) ;; *) echo "$s" ;; esac
+          done | awk '{t+=$1} END {print t+0}' > /tmp/upstream_stars
+          UPSTARS=$(cat /tmp/upstream_stars)
+          jq -n --argjson r "$REPOS" --argjson s "$STARS" --argjson c "$COMMITS" --argjson u "$UPSTARS" \
+            '{repos:$r, stars:$s, commits:$c, upstream_stars:$u}' > stats.json
+          cat stats.json
+
+      - name: Commit stats.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update stats.json [skip ci]"
+            git push
+          fi
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}

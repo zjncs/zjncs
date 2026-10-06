@@ -10,7 +10,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Commits&query=%24.commits&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzjncs%2Fzjncs%2Fmain%2Fstats.json" alt="Commits"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Repos&query=%24.repos&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzjncs%2Fzjncs%2Fmain%2Fstats.json" alt="Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Stars&query=%24.stars&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzjncs%2Fzjncs%2Fmain%2Fstats.json" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/zjncs?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&label=%E8%B4%A1%E7%8C%AE%E9%A1%B9%E7%9B%AE%20%E2%98%85&query=%24.upstream_stars&suffix=%2B&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzjncs%2Fzjncs%2Fmain%2Fstats.json" alt="贡献项目总 Star"/>
 </p>
 
 
