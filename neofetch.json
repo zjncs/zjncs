@@ -112,62 +112,14 @@
       },
       "fields": [
         {
-          "key": "zjncs",
-          "value": "zjncs/zjncs",
+          "key": "QwenPaw",
+          "value": "agentscope-ai/QwenPaw",
           "keyColor": "#8a5a00, #FFD75F",
           "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "ANOLISA",
-          "value": "zjncs/ANOLISA",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "zjncs.github.io",
-          "value": "zjncs/zjncs.github.io",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "skillhub",
-          "value": "zjncs/skillhub",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "kaiwu-pytorch-plugin",
-          "value": "zjncs/kaiwu-pytorch-plugin",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "CoPaw",
-          "value": "zjncs/CoPaw",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "Uniq-Cluster_Memory",
-          "value": "zjncs/Uniq-Cluster_Memory",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "OpenLinkage",
-          "value": "zjncs/OpenLinkage",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "TJUcomments",
-          "value": "zjncs/TJUcomments",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "CourseLearning",
-          "value": "zjncs/CourseLearning",
+          "value": "agentic-os-org/ANOLISA",
           "keyColor": "#8a5a00, #FFD75F",
           "valueColor": "#174a7e, #A5D6FF"
         }

@@ -18,17 +18,9 @@
                                         . Models:                       Vision Language Model / Full-duplex Voice Model
                                         
                                         - Projects ------------------------------------------------
-                                        . zjncs:                               zjncs/zjncs
-                                        . ANOLISA:                             zjncs/ANOLISA
-                                        . zjncs.github.io:                     zjncs/zjncs.github.io
-                                        . skillhub:                            zjncs/skillhub
-                                        . kaiwu-pytorch-plugin:                zjncs/kaiwu-pytorch-plugin
-                                        . CoPaw:                               zjncs/CoPaw
-                                        . Uniq-Cluster_Memory:                 zjncs/Uniq-Cluster_Memory
-                                        . OpenLinkage:                         zjncs/OpenLinkage
-                                        . TJUcomments:                         zjncs/TJUcomments
-                                        . CourseLearning:                      zjncs/CourseLearning
-                                                                                
+                                        . QwenPaw:                      agentscope-ai/QwenPaw
+                                        . ANOLISA:                      agentic-os-org/ANOLISA
+                                        
                                         - GitHub Stats --------------------------------------------
                                         . Repos:                        32 | Followers:       102
                                         . Issues:                       136 | PRs:             840
