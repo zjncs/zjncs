@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch/profile-v4-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/neofetch/profile-v4-light.svg">
-  <img alt="Zhao Jianing — Neofetch profile" src="assets/neofetch/profile-v4-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch/profile-v5-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/neofetch/profile-v5-light.svg">
+  <img alt="Zhao Jianing — Neofetch profile" src="assets/neofetch/profile-v5-light.svg" width="100%">
 </picture>
