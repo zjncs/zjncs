@@ -55,17 +55,18 @@ text, tspan { white-space: pre; }
 <tspan x="390" y="230" class="cc">. </tspan><tspan fill="#aaaaaa">Graduate</tspan>:<tspan class="cc"> ................... </tspan><tspan fill="#dddddd">ISCAS / Software Engineering</tspan>
 <tspan x="390" y="250" class="cc">. </tspan>
 <tspan x="390" y="270" fill="#dddddd">- Research</tspan><tspan fill="#555555"> -—————————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan fill="#aaaaaa">Agent</tspan>:<tspan class="cc"> .... </tspan><tspan fill="#dddddd">Reasoning / Planning / Safety / Personal Agent</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan fill="#aaaaaa">Models</tspan>:<tspan class="cc"> ............. </tspan><tspan fill="#dddddd">Mobile LLM / LLM / Full-duplex Voice</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan fill="#aaaaaa">Focus</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#dddddd">GUI Agent / Memory / AI4SE</tspan>
-<tspan x="390" y="350" class="cc">. </tspan>
-<tspan x="390" y="370" fill="#dddddd">- Projects</tspan><tspan fill="#555555"> -—————————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan fill="#aaaaaa">SkillHub</tspan>:<tspan class="cc"> ............ </tspan><tspan fill="#dddddd">Agent Skill creation &amp; verification</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan fill="#aaaaaa">AgentiCos</tspan>:<tspan class="cc"> ........................... </tspan><tspan fill="#dddddd">iFlytek Open Source</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan fill="#aaaaaa">QwenPaw</tspan>:<tspan class="cc"> ............................. </tspan><tspan fill="#dddddd">iFlytek Open Source</tspan>
-<tspan x="390" y="450" class="cc">. </tspan>
-<tspan x="390" y="470" fill="#dddddd">- GitHub Stats</tspan><tspan fill="#555555"> -—————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">31</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">102</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">840</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan fill="#aaaaaa">Agents</tspan>:<tspan class="cc"> ........ </tspan><tspan fill="#dddddd">Computer Use / GUI Agent / Personal Agent</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan fill="#aaaaaa">AI4SE</tspan>:<tspan class="cc"> ........ </tspan><tspan fill="#dddddd">AI for Software Engineering / Agent Safety</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan fill="#aaaaaa">Models</tspan>:<tspan class="cc"> ............. </tspan><tspan fill="#dddddd">Mobile LLM / LLM / Full-duplex Voice</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan fill="#aaaaaa">Interaction</tspan>:<tspan class="cc"> ..................... </tspan><tspan fill="#dddddd">Human-Agent Interaction</tspan>
+<tspan x="390" y="370" class="cc">. </tspan>
+<tspan x="390" y="390" fill="#dddddd">- Projects</tspan><tspan fill="#555555"> -—————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan fill="#aaaaaa">SkillHub</tspan>:<tspan class="cc"> ............ </tspan><tspan fill="#dddddd">Agent Skill creation &amp; verification</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan fill="#aaaaaa">AgentiCos</tspan>:<tspan class="cc"> ........................... </tspan><tspan fill="#dddddd">iFlytek Open Source</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan fill="#aaaaaa">QwenPaw</tspan>:<tspan class="cc"> ............................. </tspan><tspan fill="#dddddd">iFlytek Open Source</tspan>
+<tspan x="390" y="470" class="cc">. </tspan>
+<tspan x="390" y="490" fill="#dddddd">- GitHub Stats</tspan><tspan fill="#555555"> -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">31</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">102</tspan>
+<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">840</tspan>
 </text>
 </svg>

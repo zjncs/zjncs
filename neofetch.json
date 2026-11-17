@@ -79,8 +79,14 @@
       },
       "fields": [
         {
-          "key": "Agent",
-          "value": "Reasoning / Planning / Safety / Personal Agent",
+          "key": "Agents",
+          "value": "Computer Use / GUI Agent / Personal Agent",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "AI4SE",
+          "value": "AI for Software Engineering / Agent Safety",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
@@ -91,8 +97,8 @@
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "Focus",
-          "value": "GUI Agent / Memory / AI4SE",
+          "key": "Interaction",
+          "value": "Human-Agent Interaction",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         }
