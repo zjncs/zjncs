@@ -65,7 +65,13 @@
         },
         {
           "key": "Graduate",
-          "value": "UCAS / Software Engineering",
+          "value": "University of Chinese Academy of Sciences",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "- Major",
+          "value": "Software Engineering",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         }
