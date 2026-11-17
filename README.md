@@ -3,7 +3,3 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/neofetch/github-light.svg">
   <img alt="Zhao Jianing — Neofetch profile" src="assets/neofetch/github-light.svg" width="100%">
 </picture>
-
-> Researching agents, intelligent systems, and AI for software engineering.
-
-[About me](https://zjncs.github.io/about) · [Projects](https://github.com/zjncs?tab=repositories)
