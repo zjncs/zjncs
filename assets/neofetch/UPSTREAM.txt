@@ -1,0 +1,2 @@
+Source: https://github.com/jeantimex/neofetch-profile
+Renderer: unmodified api/index.js

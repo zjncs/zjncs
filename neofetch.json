@@ -1,0 +1,89 @@
+{
+  "coloredImage": true,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "Name",
+          "value": "{{name}}"
+        },
+        {
+          "key": "Uptime",
+          "value": "{{uptime}}"
+        },
+        {
+          "key": "Host",
+          "value": "GitHub / zjncs"
+        },
+        {
+          "key": "IDE",
+          "value": "VS Code"
+        },
+        {
+          "key": "Languages",
+          "value": "Java, Python, C++, JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "- Research",
+      "fields": [
+        {
+          "key": "Agents",
+          "value": "Computer Use / GUI Agent"
+        },
+        {
+          "key": "AI4SE",
+          "value": "AI for Software Engineering"
+        },
+        {
+          "key": "Interaction",
+          "value": "Human-Agent Interaction"
+        },
+        {
+          "key": "Models",
+          "value": "Mobile LLM / LLM"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "GitHub",
+          "value": "github.com/zjncs"
+        },
+        {
+          "key": "Gitee",
+          "value": "gitee.com/zjn79"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Issues",
+          "value": "{{issues}}"
+        },
+        "right": {
+          "key": "PRs",
+          "value": "{{prs}}"
+        }
+      }
+    ]
+  }
+}
