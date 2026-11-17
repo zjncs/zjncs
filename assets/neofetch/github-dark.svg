@@ -62,13 +62,12 @@ text, tspan { white-space: pre; }
 <tspan x="390" y="370" class="cc">. </tspan><tspan fill="#aaaaaa">Interaction</tspan>:<tspan class="cc"> ..................... </tspan><tspan fill="#dddddd">Human-Agent Interaction</tspan>
 <tspan x="390" y="390" class="cc">. </tspan>
 <tspan x="390" y="410" fill="#dddddd">- Projects</tspan><tspan fill="#555555"> -—————————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan fill="#aaaaaa">SkillHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan fill="#dddddd">iflytek/skillhub</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan fill="#aaaaaa">RocketMQ</tspan>:<tspan class="cc"> ...................... </tspan><tspan fill="#dddddd">apache/rocketmq-dashboard</tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan fill="#aaaaaa">OSS Compass</tspan>:<tspan class="cc"> ..................... </tspan><tspan fill="#dddddd">oss-compass/compass-web</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan fill="#aaaaaa">Kaiwu</tspan>:<tspan class="cc"> ....................... </tspan><tspan fill="#dddddd">qboson/kaiwu-pytorch-plugin</tspan>
-<tspan x="390" y="510" class="cc">. </tspan>
-<tspan x="390" y="530" fill="#dddddd">- GitHub Stats</tspan><tspan fill="#555555"> -—————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="550" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">31</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">102</tspan>
-<tspan x="390" y="570" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">840</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan fill="#aaaaaa">QwenPaw</tspan>:<tspan class="cc"> ........................... </tspan><tspan fill="#dddddd">agentscope-ai/QwenPaw</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan fill="#aaaaaa">agentUniverse</tspan>:<tspan class="cc"> ............ </tspan><tspan fill="#dddddd">agentuniverse-ai/agentUniverse</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan fill="#aaaaaa">ANOLISA</tspan>:<tspan class="cc"> .......................... </tspan><tspan fill="#dddddd">agentic-os-org/ANOLISA</tspan>
+<tspan x="390" y="490" class="cc">. </tspan>
+<tspan x="390" y="510" fill="#dddddd">- GitHub Stats</tspan><tspan fill="#555555"> -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">31</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">102</tspan>
+<tspan x="390" y="550" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">840</tspan>
 </text>
 </svg>

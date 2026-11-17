@@ -118,26 +118,20 @@
       },
       "fields": [
         {
-          "key": "SkillHub",
-          "value": "iflytek/skillhub",
+          "key": "QwenPaw",
+          "value": "agentscope-ai/QwenPaw",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "RocketMQ",
-          "value": "apache/rocketmq-dashboard",
+          "key": "agentUniverse",
+          "value": "agentuniverse-ai/agentUniverse",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "OSS Compass",
-          "value": "oss-compass/compass-web",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
-        },
-        {
-          "key": "Kaiwu",
-          "value": "qboson/kaiwu-pytorch-plugin",
+          "key": "ANOLISA",
+          "value": "agentic-os-org/ANOLISA",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         }
