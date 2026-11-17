@@ -2,138 +2,138 @@
   "coloredImage": false,
   "imageColor": "#444444, #b5b5b5",
   "imageScale": 1.0,
-  "backgroundColor": "#fafafa, #161616",
-  "separatorColor": "#b0b0b0, #555555",
+  "backgroundColor": "#fafafa, #161b22",
+  "separatorColor": "#b0b0b0, #64748b",
   "sections": [
     {
       "title": "{{username}}@github",
       "titleColor": {
-        "text": "#222222, #dddddd",
-        "line": "#aaaaaa, #555555"
+        "text": "#8a5a00, #FFD75F",
+        "line": "#b0b0b0, #64748b"
       },
       "fields": [
         {
           "key": "Name",
           "value": "Jianing Zhao",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "Host",
           "value": "GitHub / zjncs",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "IDE",
           "value": "VS Code",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "Languages",
           "value": "Java, Python, C++, JavaScript",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         }
       ]
     },
     {
       "title": "- Education",
       "titleColor": {
-        "text": "#222222, #dddddd",
-        "line": "#aaaaaa, #555555"
+        "text": "#8a5a00, #FFD75F",
+        "line": "#b0b0b0, #64748b"
       },
       "fields": [
         {
           "key": "Undergraduate",
           "value": "Tianjin University",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "- Major",
           "value": "Information Mgmt & Info Systems",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "- Minor",
           "value": "Artificial Intelligence",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "Graduate",
           "value": "University of Chinese Academy of Sciences",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "- Major",
           "value": "Software Engineering",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         }
       ]
     },
     {
       "title": "- Research",
       "titleColor": {
-        "text": "#222222, #dddddd",
-        "line": "#aaaaaa, #555555"
+        "text": "#8a5a00, #FFD75F",
+        "line": "#b0b0b0, #64748b"
       },
       "fields": [
         {
           "key": "Agents",
           "value": "Computer Use / GUI Agent / Personal Agent",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "AI4SE",
           "value": "AI for Software Engineering / Agent Safety",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "Models",
           "value": "Mobile LLM / LLM / Full-duplex Voice",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "Interaction",
           "value": "Human-Agent Interaction",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         }
       ]
     },
     {
       "title": "- Projects",
       "titleColor": {
-        "text": "#222222, #dddddd",
-        "line": "#aaaaaa, #555555"
+        "text": "#8a5a00, #FFD75F",
+        "line": "#b0b0b0, #64748b"
       },
       "fields": [
         {
           "key": "QwenPaw",
           "value": "agentscope-ai/QwenPaw",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "agentUniverse",
           "value": "agentuniverse-ai/agentUniverse",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "ANOLISA",
           "value": "agentic-os-org/ANOLISA",
-          "keyColor": "#555555, #aaaaaa",
-          "valueColor": "#222222, #dddddd"
+          "keyColor": "#8a5a00, #FFD75F",
+          "valueColor": "#174a7e, #A5D6FF"
         }
       ]
     }
@@ -141,8 +141,8 @@
   "stats": {
     "title": "- GitHub Stats",
     "titleColor": {
-      "text": "#222222, #dddddd",
-      "line": "#aaaaaa, #555555"
+      "text": "#cf222e, #FF7B72",
+      "line": "#b0b0b0, #64748b"
     },
     "rows": [
       {

@@ -10,10 +10,10 @@
 .value { fill: #a5d6ff; }
 .addColor { fill: #3fb950; }
 .delColor { fill: #f85149; }
-.cc { fill: #555555; }
+.cc { fill: #64748b; }
 text, tspan { white-space: pre; }
 </style>
-<rect width="1500px" height="720px" fill="#161616" rx="15"/>
+<rect width="1500px" height="720px" fill="#161b22" rx="15"/>
 <text x="15" y="30" font-size="14px" fill="#b5b5b5">
 <tspan x="15" y="30">                              /\\        /\\                </tspan>
 <tspan x="15" y="44">                             /  \\      /  \\               </tspan>
@@ -52,31 +52,31 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="506">                   /                           \\           </tspan>
 </text>
 <text x="700" y="30" fill="#c9d1d9">
-<tspan x="700" y="30" fill="#dddddd">zjncs@github</tspan><tspan fill="#555555"> -———————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="50" class="cc">. </tspan><tspan fill="#aaaaaa">Name</tspan>:<tspan class="cc"> ....................................................... </tspan><tspan fill="#dddddd">Jianing Zhao</tspan>
-<tspan x="700" y="70" class="cc">. </tspan><tspan fill="#aaaaaa">Host</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan fill="#dddddd">GitHub / zjncs</tspan>
-<tspan x="700" y="90" class="cc">. </tspan><tspan fill="#aaaaaa">IDE</tspan>:<tspan class="cc"> ............................................................. </tspan><tspan fill="#dddddd">VS Code</tspan>
-<tspan x="700" y="110" class="cc">. </tspan><tspan fill="#aaaaaa">Languages</tspan>:<tspan class="cc"> ................................. </tspan><tspan fill="#dddddd">Java, Python, C++, JavaScript</tspan>
+<tspan x="700" y="30" fill="#FFD75F">zjncs@github</tspan><tspan fill="#64748b"> -———————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="50" class="cc">. </tspan><tspan fill="#FFD75F">Name</tspan>:<tspan class="cc"> ....................................................... </tspan><tspan fill="#A5D6FF">Jianing Zhao</tspan>
+<tspan x="700" y="70" class="cc">. </tspan><tspan fill="#FFD75F">Host</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan fill="#A5D6FF">GitHub / zjncs</tspan>
+<tspan x="700" y="90" class="cc">. </tspan><tspan fill="#FFD75F">IDE</tspan>:<tspan class="cc"> ............................................................. </tspan><tspan fill="#A5D6FF">VS Code</tspan>
+<tspan x="700" y="110" class="cc">. </tspan><tspan fill="#FFD75F">Languages</tspan>:<tspan class="cc"> ................................. </tspan><tspan fill="#A5D6FF">Java, Python, C++, JavaScript</tspan>
 <tspan x="700" y="130" class="cc">. </tspan>
-<tspan x="700" y="150" fill="#dddddd">- Education</tspan><tspan fill="#555555"> -————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="170" class="cc">. </tspan><tspan fill="#aaaaaa">Undergraduate</tspan>:<tspan class="cc"> ........................................ </tspan><tspan fill="#dddddd">Tianjin University</tspan>
-<tspan x="700" y="190" class="cc">. </tspan><tspan fill="#aaaaaa">- Major</tspan>:<tspan class="cc"> ................................. </tspan><tspan fill="#dddddd">Information Mgmt &amp; Info Systems</tspan>
-<tspan x="700" y="210" class="cc">. </tspan><tspan fill="#aaaaaa">- Minor</tspan>:<tspan class="cc"> ......................................... </tspan><tspan fill="#dddddd">Artificial Intelligence</tspan>
-<tspan x="700" y="230" class="cc">. </tspan><tspan fill="#aaaaaa">Graduate</tspan>:<tspan class="cc"> ...................... </tspan><tspan fill="#dddddd">University of Chinese Academy of Sciences</tspan>
-<tspan x="700" y="250" class="cc">. </tspan><tspan fill="#aaaaaa">- Major</tspan>:<tspan class="cc"> ............................................ </tspan><tspan fill="#dddddd">Software Engineering</tspan>
+<tspan x="700" y="150" fill="#FFD75F">- Education</tspan><tspan fill="#64748b"> -————————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="170" class="cc">. </tspan><tspan fill="#FFD75F">Undergraduate</tspan>:<tspan class="cc"> ........................................ </tspan><tspan fill="#A5D6FF">Tianjin University</tspan>
+<tspan x="700" y="190" class="cc">. </tspan><tspan fill="#FFD75F">- Major</tspan>:<tspan class="cc"> ................................. </tspan><tspan fill="#A5D6FF">Information Mgmt &amp; Info Systems</tspan>
+<tspan x="700" y="210" class="cc">. </tspan><tspan fill="#FFD75F">- Minor</tspan>:<tspan class="cc"> ......................................... </tspan><tspan fill="#A5D6FF">Artificial Intelligence</tspan>
+<tspan x="700" y="230" class="cc">. </tspan><tspan fill="#FFD75F">Graduate</tspan>:<tspan class="cc"> ...................... </tspan><tspan fill="#A5D6FF">University of Chinese Academy of Sciences</tspan>
+<tspan x="700" y="250" class="cc">. </tspan><tspan fill="#FFD75F">- Major</tspan>:<tspan class="cc"> ............................................ </tspan><tspan fill="#A5D6FF">Software Engineering</tspan>
 <tspan x="700" y="270" class="cc">. </tspan>
-<tspan x="700" y="290" fill="#dddddd">- Research</tspan><tspan fill="#555555"> -—————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="310" class="cc">. </tspan><tspan fill="#aaaaaa">Agents</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#dddddd">Computer Use / GUI Agent / Personal Agent</tspan>
-<tspan x="700" y="330" class="cc">. </tspan><tspan fill="#aaaaaa">AI4SE</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#dddddd">AI for Software Engineering / Agent Safety</tspan>
-<tspan x="700" y="350" class="cc">. </tspan><tspan fill="#aaaaaa">Models</tspan>:<tspan class="cc"> ............................. </tspan><tspan fill="#dddddd">Mobile LLM / LLM / Full-duplex Voice</tspan>
-<tspan x="700" y="370" class="cc">. </tspan><tspan fill="#aaaaaa">Interaction</tspan>:<tspan class="cc"> ..................................... </tspan><tspan fill="#dddddd">Human-Agent Interaction</tspan>
+<tspan x="700" y="290" fill="#FFD75F">- Research</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="310" class="cc">. </tspan><tspan fill="#FFD75F">Agents</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#A5D6FF">Computer Use / GUI Agent / Personal Agent</tspan>
+<tspan x="700" y="330" class="cc">. </tspan><tspan fill="#FFD75F">AI4SE</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#A5D6FF">AI for Software Engineering / Agent Safety</tspan>
+<tspan x="700" y="350" class="cc">. </tspan><tspan fill="#FFD75F">Models</tspan>:<tspan class="cc"> ............................. </tspan><tspan fill="#A5D6FF">Mobile LLM / LLM / Full-duplex Voice</tspan>
+<tspan x="700" y="370" class="cc">. </tspan><tspan fill="#FFD75F">Interaction</tspan>:<tspan class="cc"> ..................................... </tspan><tspan fill="#A5D6FF">Human-Agent Interaction</tspan>
 <tspan x="700" y="390" class="cc">. </tspan>
-<tspan x="700" y="410" fill="#dddddd">- Projects</tspan><tspan fill="#555555"> -—————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="430" class="cc">. </tspan><tspan fill="#aaaaaa">QwenPaw</tspan>:<tspan class="cc"> ........................................... </tspan><tspan fill="#dddddd">agentscope-ai/QwenPaw</tspan>
-<tspan x="700" y="450" class="cc">. </tspan><tspan fill="#aaaaaa">agentUniverse</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#dddddd">agentuniverse-ai/agentUniverse</tspan>
-<tspan x="700" y="470" class="cc">. </tspan><tspan fill="#aaaaaa">ANOLISA</tspan>:<tspan class="cc"> .......................................... </tspan><tspan fill="#dddddd">agentic-os-org/ANOLISA</tspan>
+<tspan x="700" y="410" fill="#FFD75F">- Projects</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="430" class="cc">. </tspan><tspan fill="#FFD75F">QwenPaw</tspan>:<tspan class="cc"> ........................................... </tspan><tspan fill="#A5D6FF">agentscope-ai/QwenPaw</tspan>
+<tspan x="700" y="450" class="cc">. </tspan><tspan fill="#FFD75F">agentUniverse</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#A5D6FF">agentuniverse-ai/agentUniverse</tspan>
+<tspan x="700" y="470" class="cc">. </tspan><tspan fill="#FFD75F">ANOLISA</tspan>:<tspan class="cc"> .......................................... </tspan><tspan fill="#A5D6FF">agentic-os-org/ANOLISA</tspan>
 <tspan x="700" y="490" class="cc">. </tspan>
-<tspan x="700" y="510" fill="#dddddd">- GitHub Stats</tspan><tspan fill="#555555"> -—————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="510" fill="#FF7B72">- GitHub Stats</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————-—-</tspan>
 <tspan x="700" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">32</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">102</tspan>
 <tspan x="700" y="550" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">840</tspan>
 </text>
