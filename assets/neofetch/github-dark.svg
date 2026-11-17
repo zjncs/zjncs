@@ -15,41 +15,34 @@ text, tspan { white-space: pre; }
 </style>
 <rect width="1500px" height="720px" fill="#161b22" rx="15"/>
 <text x="15" y="30" font-size="14px" fill="#b5b5b5">
-<tspan x="15" y="30">                              /\\        /\\                </tspan>
-<tspan x="15" y="44">                             /  \\      /  \\               </tspan>
-<tspan x="15" y="58">                            /    \\____/    \\              </tspan>
-<tspan x="15" y="72">                           /                \\              </tspan>
-<tspan x="15" y="86">                          /   .        .    \\              </tspan>
-<tspan x="15" y="100">                         |       .--.       |               </tspan>
-<tspan x="15" y="114">                         |      (____)      |               </tspan>
-<tspan x="15" y="128">                         |   .          .   |               </tspan>
-<tspan x="15" y="142">                         |  /   \\____/   \\  |             </tspan>
-<tspan x="15" y="156">                         |  \\            /  |              </tspan>
-<tspan x="15" y="170">                          \\    ._______.   /               </tspan>
-<tspan x="15" y="184">                           \\              /                </tspan>
-<tspan x="15" y="198">                       ____/\\            /\\____           </tspan>
-<tspan x="15" y="212">                   ___/      \\          /      \\___       </tspan>
-<tspan x="15" y="226">                 _/           \\________/           \\_     </tspan>
-<tspan x="15" y="240">                /                                  \\       </tspan>
-<tspan x="15" y="254">               /        .----.          .----.       \\     </tspan>
-<tspan x="15" y="268">              /        /      \\        /      \\       \\  </tspan>
-<tspan x="15" y="282">             |        |   ##   |      |   ##   |        |   </tspan>
-<tspan x="15" y="296">             |        |        |      |        |        |   </tspan>
-<tspan x="15" y="310">             |         \\      /        \\      /         | </tspan>
-<tspan x="15" y="324">             |          &apos;----&apos;          &apos;----&apos;          |   </tspan>
-<tspan x="15" y="338">              \\              .------.                /     </tspan>
-<tspan x="15" y="352">               \\            /        \\              /     </tspan>
-<tspan x="15" y="366">                \\          |   /\\   |             /       </tspan>
-<tspan x="15" y="380">                 \\         |  /  \\  |            /        </tspan>
-<tspan x="15" y="394">                  \\        |  \\__/  |           /         </tspan>
-<tspan x="15" y="408">                   \\        \\      /           /          </tspan>
-<tspan x="15" y="422">                    \\        &apos;----&apos;           /            </tspan>
-<tspan x="15" y="436">                     \\                       /             </tspan>
-<tspan x="15" y="450">                      \\___________________/                </tspan>
-<tspan x="15" y="464">                          /             \\                  </tspan>
-<tspan x="15" y="478">                     ____/               \\____             </tspan>
-<tspan x="15" y="492">                    /                         \\            </tspan>
-<tspan x="15" y="506">                   /                           \\           </tspan>
+<tspan x="15" y="30">                 /\\                 /\\                    </tspan>
+<tspan x="15" y="44">                /  \\               /  \\                   </tspan>
+<tspan x="15" y="58">               /    \\_____________/    \\                  </tspan>
+<tspan x="15" y="72">              /                         \\                  </tspan>
+<tspan x="15" y="86">             /    o       ___       o    \\                 </tspan>
+<tspan x="15" y="100">            |           /     \\           |                </tspan>
+<tspan x="15" y="114">            |      @   |  .-.  |   @      |                 </tspan>
+<tspan x="15" y="128">            |          | (___) |          |                 </tspan>
+<tspan x="15" y="142">            |      .-.  \\_____/  .-.      |                </tspan>
+<tspan x="15" y="156">             \\    /   \\         /   \\    /               </tspan>
+<tspan x="15" y="170">              \\__/     `-------&apos;     \\__/                 </tspan>
+<tspan x="15" y="184">                |                       |                   </tspan>
+<tspan x="15" y="198">                |       .-------.       |                   </tspan>
+<tspan x="15" y="212">                |      /         \\      |                  </tspan>
+<tspan x="15" y="226">                 \\    |           |    /                   </tspan>
+<tspan x="15" y="240">                  \\___|___________|___/                    </tspan>
+<tspan x="15" y="254">                     /             \\                       </tspan>
+<tspan x="15" y="268">                    /               \\                      </tspan>
+<tspan x="15" y="282">                   /                 \\                     </tspan>
+<tspan x="15" y="296">              ____/                   \\____                </tspan>
+<tspan x="15" y="310">             /                             \\               </tspan>
+<tspan x="15" y="324">            /                               \\              </tspan>
+<tspan x="15" y="338">           /_________________________________\\             </tspan>
+<tspan x="15" y="352">                         |                                  </tspan>
+<tspan x="15" y="366">                         |\\                                </tspan>
+<tspan x="15" y="380">                         | \\__                             </tspan>
+<tspan x="15" y="394">                         |    \\___                         </tspan>
+<tspan x="15" y="408">                         |        \\__                      </tspan>
 </text>
 <text x="700" y="30" fill="#c9d1d9">
 <tspan x="700" y="30" fill="#FFD75F">zjncs@github</tspan><tspan fill="#64748b"> -———————————————————————————————————————————————————————————-—-</tspan>
