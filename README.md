@@ -19,7 +19,6 @@
 <font color="#FFD75F">      ################}{}?####{              </font>  
 <font color="#FFD75F">     ?################}]][                   </font>  - Projects ------------------------------------------------
 <font color="#FFD75F">    }##################[                     </font>  . QwenPaw:                      agentscope-ai/QwenPaw
-<font color="#FFD75F">    ###################}                     </font>  . agentUniverse:                agentuniverse-ai/agentUniverse
 <font color="#FFD75F">    ###################?                     </font>  . ANOLISA:                      agentic-os-org/ANOLISA
 <font color="#FFD75F">     ]{{{{{{{{{{{}}}}}}]                     </font>  
 <font color="#FFD75F">   {?}]]]         []{][                      </font>  - GitHub Stats --------------------------------------------

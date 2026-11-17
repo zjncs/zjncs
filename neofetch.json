@@ -118,12 +118,6 @@
           "valueColor": "#174a7e, #A5D6FF"
         },
         {
-          "key": "agentUniverse",
-          "value": "agentuniverse-ai/agentUniverse",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
           "key": "ANOLISA",
           "value": "agentic-os-org/ANOLISA",
           "keyColor": "#8a5a00, #FFD75F",
