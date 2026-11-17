@@ -14,31 +14,7 @@
 text, tspan { white-space: pre; }
 </style>
 <rect width="985px" height="650px" fill="#161616" rx="15"/>
-<text x="15" y="30" fill="#b5b5b5">
-<tspan x="15" y="30">                 .-&apos;&apos;&apos;&apos;-.             </tspan>
-<tspan x="15" y="50">              .-&apos;        &apos;-.          </tspan>
-<tspan x="15" y="70">            .&apos;     .--.     &apos;.        </tspan>
-<tspan x="15" y="90">           /     .&apos;    &apos;.     \       </tspan>
-<tspan x="15" y="110">          ;     /  .--.  \     ;      </tspan>
-<tspan x="15" y="130">          |    ;  /    \  ;    |      </tspan>
-<tspan x="15" y="150">          |    | |  o o | |    |      </tspan>
-<tspan x="15" y="170">          |    | |  ^ ^ | |    |      </tspan>
-<tspan x="15" y="190">          |    ;  \ -- /  ;    |      </tspan>
-<tspan x="15" y="210">          ;     \  &apos;––&apos;  /     ;      </tspan>
-<tspan x="15" y="230">           \     &apos;.____.&apos;     /       </tspan>
-<tspan x="15" y="250">            &apos;.      /\      .&apos;        </tspan>
-<tspan x="15" y="270">              &apos;-.  /  \  .-&apos;          </tspan>
-<tspan x="15" y="290">                | /____\ |            </tspan>
-<tspan x="15" y="310">             .--&apos;  ____  &apos;--.         </tspan>
-<tspan x="15" y="330">           .&apos;    .&apos;    &apos;.    &apos;.       </tspan>
-<tspan x="15" y="350">          /_____/  .--.  \_____\      </tspan>
-<tspan x="15" y="370">          |     | /    \ |     |      </tspan>
-<tspan x="15" y="390">          |     |/      \|     |      </tspan>
-<tspan x="15" y="410">          |     /  /\    \     |      </tspan>
-<tspan x="15" y="430">          |    /  /  \    \    |      </tspan>
-<tspan x="15" y="450">          |   /__/    \____\   |      </tspan>
-<tspan x="15" y="470">          |____________________|      </tspan>
-</text>
+<image href="avatar-ascii.png" x="25" y="55" width="335" height="500" preserveAspectRatio="xMidYMid meet"/>
 <text x="390" y="30" fill="#e0e0e0">
 <tspan x="390" y="30" fill="#dddddd">zjncs@github</tspan><tspan fill="#555555"> -———————————————————————————————————————————-—-</tspan>
 <tspan x="390" y="50" class="cc">. </tspan><tspan fill="#aaaaaa">Name</tspan>:<tspan class="cc"> ....................................... </tspan><tspan fill="#dddddd">Jianing Zhao</tspan>
