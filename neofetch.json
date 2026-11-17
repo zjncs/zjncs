@@ -86,25 +86,19 @@
       "fields": [
         {
           "key": "Agents",
-          "value": "Computer Use / GUI Agent / Personal Agent",
+          "value": "Computer Use / Personal Agent",
           "keyColor": "#8a5a00, #FFD75F",
           "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "AI4SE",
-          "value": "AI for Software Engineering / Agent Safety",
+          "value": "Agent Safety / Human-Agent Interaction",
           "keyColor": "#8a5a00, #FFD75F",
           "valueColor": "#174a7e, #A5D6FF"
         },
         {
           "key": "Models",
-          "value": "Mobile LLM / LLM / Full-duplex Voice",
-          "keyColor": "#8a5a00, #FFD75F",
-          "valueColor": "#174a7e, #A5D6FF"
-        },
-        {
-          "key": "Interaction",
-          "value": "Human-Agent Interaction",
+          "value": "Vision Language Model / Full-duplex Voice Model",
           "keyColor": "#8a5a00, #FFD75F",
           "valueColor": "#174a7e, #A5D6FF"
         }

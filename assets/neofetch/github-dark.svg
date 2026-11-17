@@ -59,18 +59,17 @@ text, tspan { white-space: pre; }
 <tspan x="700" y="250" class="cc">. </tspan><tspan fill="#FFD75F">- Major</tspan>:<tspan class="cc"> ............................................ </tspan><tspan fill="#A5D6FF">Software Engineering</tspan>
 <tspan x="700" y="270" class="cc">. </tspan>
 <tspan x="700" y="290" fill="#FFD75F">- Research</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="310" class="cc">. </tspan><tspan fill="#FFD75F">Agents</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#A5D6FF">Computer Use / GUI Agent / Personal Agent</tspan>
-<tspan x="700" y="330" class="cc">. </tspan><tspan fill="#FFD75F">AI4SE</tspan>:<tspan class="cc"> ........................ </tspan><tspan fill="#A5D6FF">AI for Software Engineering / Agent Safety</tspan>
-<tspan x="700" y="350" class="cc">. </tspan><tspan fill="#FFD75F">Models</tspan>:<tspan class="cc"> ............................. </tspan><tspan fill="#A5D6FF">Mobile LLM / LLM / Full-duplex Voice</tspan>
-<tspan x="700" y="370" class="cc">. </tspan><tspan fill="#FFD75F">Interaction</tspan>:<tspan class="cc"> ..................................... </tspan><tspan fill="#A5D6FF">Human-Agent Interaction</tspan>
-<tspan x="700" y="390" class="cc">. </tspan>
-<tspan x="700" y="410" fill="#FFD75F">- Projects</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="430" class="cc">. </tspan><tspan fill="#FFD75F">QwenPaw</tspan>:<tspan class="cc"> ........................................... </tspan><tspan fill="#A5D6FF">agentscope-ai/QwenPaw</tspan>
-<tspan x="700" y="450" class="cc">. </tspan><tspan fill="#FFD75F">agentUniverse</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#A5D6FF">agentuniverse-ai/agentUniverse</tspan>
-<tspan x="700" y="470" class="cc">. </tspan><tspan fill="#FFD75F">ANOLISA</tspan>:<tspan class="cc"> .......................................... </tspan><tspan fill="#A5D6FF">agentic-os-org/ANOLISA</tspan>
-<tspan x="700" y="490" class="cc">. </tspan>
-<tspan x="700" y="510" fill="#FF7B72">- GitHub Stats</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">32</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">102</tspan>
-<tspan x="700" y="550" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">840</tspan>
+<tspan x="700" y="310" class="cc">. </tspan><tspan fill="#FFD75F">Agents</tspan>:<tspan class="cc"> .................................... </tspan><tspan fill="#A5D6FF">Computer Use / Personal Agent</tspan>
+<tspan x="700" y="330" class="cc">. </tspan><tspan fill="#FFD75F">AI4SE</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#A5D6FF">Agent Safety / Human-Agent Interaction</tspan>
+<tspan x="700" y="350" class="cc">. </tspan><tspan fill="#FFD75F">Models</tspan>:<tspan class="cc"> .................. </tspan><tspan fill="#A5D6FF">Vision Language Model / Full-duplex Voice Model</tspan>
+<tspan x="700" y="370" class="cc">. </tspan>
+<tspan x="700" y="390" fill="#FFD75F">- Projects</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="410" class="cc">. </tspan><tspan fill="#FFD75F">QwenPaw</tspan>:<tspan class="cc"> ........................................... </tspan><tspan fill="#A5D6FF">agentscope-ai/QwenPaw</tspan>
+<tspan x="700" y="430" class="cc">. </tspan><tspan fill="#FFD75F">agentUniverse</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#A5D6FF">agentuniverse-ai/agentUniverse</tspan>
+<tspan x="700" y="450" class="cc">. </tspan><tspan fill="#FFD75F">ANOLISA</tspan>:<tspan class="cc"> .......................................... </tspan><tspan fill="#A5D6FF">agentic-os-org/ANOLISA</tspan>
+<tspan x="700" y="470" class="cc">. </tspan>
+<tspan x="700" y="490" fill="#FF7B72">- GitHub Stats</tspan><tspan fill="#64748b"> -—————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="700" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">32</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">102</tspan>
+<tspan x="700" y="530" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">840</tspan>
 </text>
 </svg>
