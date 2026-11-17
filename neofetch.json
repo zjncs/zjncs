@@ -1,68 +1,137 @@
 {
-  "coloredImage": true,
+  "coloredImage": false,
+  "imageColor": "#444444, #b5b5b5",
+  "imageScale": 0.82,
+  "backgroundColor": "#fafafa, #161616",
+  "separatorColor": "#b0b0b0, #555555",
   "sections": [
     {
       "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#222222, #dddddd",
+        "line": "#aaaaaa, #555555"
+      },
       "fields": [
         {
           "key": "Name",
-          "value": "{{name}}"
-        },
-        {
-          "key": "Uptime",
-          "value": "{{uptime}}"
+          "value": "Jianing Zhao",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         },
         {
           "key": "Host",
-          "value": "GitHub / zjncs"
+          "value": "GitHub / zjncs",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         },
         {
           "key": "IDE",
-          "value": "VS Code"
+          "value": "VS Code",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         },
         {
           "key": "Languages",
-          "value": "Java, Python, C++, JavaScript"
+          "value": "Java, Python, C++, JavaScript",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        }
+      ]
+    },
+    {
+      "title": "- Education",
+      "titleColor": {
+        "text": "#222222, #dddddd",
+        "line": "#aaaaaa, #555555"
+      },
+      "fields": [
+        {
+          "key": "Undergraduate",
+          "value": "Tianjin University",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "Major",
+          "value": "Information Mgmt & Info Systems",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "Minor",
+          "value": "Artificial Intelligence",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "Graduate",
+          "value": "ISCAS / Software Engineering",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         }
       ]
     },
     {
       "title": "- Research",
+      "titleColor": {
+        "text": "#222222, #dddddd",
+        "line": "#aaaaaa, #555555"
+      },
       "fields": [
         {
-          "key": "Agents",
-          "value": "Computer Use / GUI Agent"
-        },
-        {
-          "key": "AI4SE",
-          "value": "AI for Software Engineering"
-        },
-        {
-          "key": "Interaction",
-          "value": "Human-Agent Interaction"
+          "key": "Agent",
+          "value": "Reasoning / Planning / Safety / Personal Agent",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         },
         {
           "key": "Models",
-          "value": "Mobile LLM / LLM"
+          "value": "Mobile LLM / LLM / Full-duplex Voice",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "Focus",
+          "value": "GUI Agent / Memory / AI4SE",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         }
       ]
     },
     {
-      "title": "- Contact",
+      "title": "- Projects",
+      "titleColor": {
+        "text": "#222222, #dddddd",
+        "line": "#aaaaaa, #555555"
+      },
       "fields": [
         {
-          "key": "GitHub",
-          "value": "github.com/zjncs"
+          "key": "SkillHub",
+          "value": "Agent Skill creation & verification",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "Gitee",
-          "value": "gitee.com/zjn79"
+          "key": "AgentiCos",
+          "value": "iFlytek Open Source",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "QwenPaw",
+          "value": "iFlytek Open Source",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
         }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
+    "titleColor": {
+      "text": "#222222, #dddddd",
+      "line": "#aaaaaa, #555555"
+    },
     "rows": [
       {
         "left": {
