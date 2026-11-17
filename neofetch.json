@@ -1,7 +1,7 @@
 {
   "coloredImage": false,
   "imageColor": "#444444, #b5b5b5",
-  "imageScale": 0.82,
+  "imageScale": 1.55,
   "backgroundColor": "#fafafa, #161616",
   "separatorColor": "#b0b0b0, #555555",
   "sections": [
@@ -52,20 +52,20 @@
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "Major",
+          "key": "- Major",
           "value": "Information Mgmt & Info Systems",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "Minor",
+          "key": "- Minor",
           "value": "Artificial Intelligence",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
         {
           "key": "Graduate",
-          "value": "ISCAS / Software Engineering",
+          "value": "UCAS / Software Engineering",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         }
@@ -113,19 +113,25 @@
       "fields": [
         {
           "key": "SkillHub",
-          "value": "Agent Skill creation & verification",
+          "value": "iflytek/skillhub",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "AgentiCos",
-          "value": "iFlytek Open Source",
+          "key": "RocketMQ",
+          "value": "apache/rocketmq-dashboard",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         },
         {
-          "key": "QwenPaw",
-          "value": "iFlytek Open Source",
+          "key": "OSS Compass",
+          "value": "oss-compass/compass-web",
+          "keyColor": "#555555, #aaaaaa",
+          "valueColor": "#222222, #dddddd"
+        },
+        {
+          "key": "Kaiwu",
+          "value": "qboson/kaiwu-pytorch-plugin",
           "keyColor": "#555555, #aaaaaa",
           "valueColor": "#222222, #dddddd"
         }
