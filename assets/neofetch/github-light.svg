@@ -1,75 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="1500px" height="720px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590">
 <style>
-@font-face {
-  src: local('Consolas'), local('Monaco'), local('monospace');
-  font-family: 'CardFont';
-  font-display: swap;
-}
-.key { fill: #953800; }
-.value { fill: #0a3069; }
-.addColor { fill: #1a7f37; }
-.delColor { fill: #cf222e; }
-.cc { fill: #b0b0b0; }
-text, tspan { white-space: pre; }
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; dominant-baseline: alphabetic; }
+.title { fill:#252525; font-weight:700; } .muted { fill:#6b7075; } .label { fill:#4b4f54; font-weight:700; } .value { fill:#252525; } .art { fill:#565b61; }
 </style>
-<rect width="1500px" height="720px" fill="#fafafa" rx="15"/>
-<text x="15" y="30" font-size="14px" fill="#444444">
-<tspan x="15" y="30">                 /\\                 /\\                    </tspan>
-<tspan x="15" y="44">                /  \\               /  \\                   </tspan>
-<tspan x="15" y="58">               /    \\_____________/    \\                  </tspan>
-<tspan x="15" y="72">              /                         \\                  </tspan>
-<tspan x="15" y="86">             /    o       ___       o    \\                 </tspan>
-<tspan x="15" y="100">            |           /     \\           |                </tspan>
-<tspan x="15" y="114">            |      @   |  .-.  |   @      |                 </tspan>
-<tspan x="15" y="128">            |          | (___) |          |                 </tspan>
-<tspan x="15" y="142">            |      .-.  \\_____/  .-.      |                </tspan>
-<tspan x="15" y="156">             \\    /   \\         /   \\    /               </tspan>
-<tspan x="15" y="170">              \\__/     `-------&apos;     \\__/                 </tspan>
-<tspan x="15" y="184">                |                       |                   </tspan>
-<tspan x="15" y="198">                |       .-------.       |                   </tspan>
-<tspan x="15" y="212">                |      /         \\      |                  </tspan>
-<tspan x="15" y="226">                 \\    |           |    /                   </tspan>
-<tspan x="15" y="240">                  \\___|___________|___/                    </tspan>
-<tspan x="15" y="254">                     /             \\                       </tspan>
-<tspan x="15" y="268">                    /               \\                      </tspan>
-<tspan x="15" y="282">                   /                 \\                     </tspan>
-<tspan x="15" y="296">              ____/                   \\____                </tspan>
-<tspan x="15" y="310">             /                             \\               </tspan>
-<tspan x="15" y="324">            /                               \\              </tspan>
-<tspan x="15" y="338">           /_________________________________\\             </tspan>
-<tspan x="15" y="352">                         |                                  </tspan>
-<tspan x="15" y="366">                         |\\                                </tspan>
-<tspan x="15" y="380">                         | \\__                             </tspan>
-<tspan x="15" y="394">                         |    \\___                         </tspan>
-<tspan x="15" y="408">                         |        \\__                      </tspan>
-</text>
-<text x="700" y="30" fill="#24292f">
-<tspan x="700" y="30" fill="#8a5a00">zjncs@github</tspan><tspan fill="#b0b0b0"> -———————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="50" class="cc">. </tspan><tspan fill="#8a5a00">Name</tspan>:<tspan class="cc"> ....................................................... </tspan><tspan fill="#174a7e">Jianing Zhao</tspan>
-<tspan x="700" y="70" class="cc">. </tspan><tspan fill="#8a5a00">Host</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan fill="#174a7e">GitHub / zjncs</tspan>
-<tspan x="700" y="90" class="cc">. </tspan><tspan fill="#8a5a00">IDE</tspan>:<tspan class="cc"> ............................................................. </tspan><tspan fill="#174a7e">VS Code</tspan>
-<tspan x="700" y="110" class="cc">. </tspan><tspan fill="#8a5a00">Languages</tspan>:<tspan class="cc"> ................................. </tspan><tspan fill="#174a7e">Java, Python, C++, JavaScript</tspan>
-<tspan x="700" y="130" class="cc">. </tspan>
-<tspan x="700" y="150" fill="#8a5a00">- Education</tspan><tspan fill="#b0b0b0"> -————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="170" class="cc">. </tspan><tspan fill="#8a5a00">Undergraduate</tspan>:<tspan class="cc"> ........................................ </tspan><tspan fill="#174a7e">Tianjin University</tspan>
-<tspan x="700" y="190" class="cc">. </tspan><tspan fill="#8a5a00">- Major</tspan>:<tspan class="cc"> ................................. </tspan><tspan fill="#174a7e">Information Mgmt &amp; Info Systems</tspan>
-<tspan x="700" y="210" class="cc">. </tspan><tspan fill="#8a5a00">- Minor</tspan>:<tspan class="cc"> ......................................... </tspan><tspan fill="#174a7e">Artificial Intelligence</tspan>
-<tspan x="700" y="230" class="cc">. </tspan><tspan fill="#8a5a00">Graduate</tspan>:<tspan class="cc"> ...................... </tspan><tspan fill="#174a7e">University of Chinese Academy of Sciences</tspan>
-<tspan x="700" y="250" class="cc">. </tspan><tspan fill="#8a5a00">- Major</tspan>:<tspan class="cc"> ............................................ </tspan><tspan fill="#174a7e">Software Engineering</tspan>
-<tspan x="700" y="270" class="cc">. </tspan>
-<tspan x="700" y="290" fill="#8a5a00">- Research</tspan><tspan fill="#b0b0b0"> -—————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="310" class="cc">. </tspan><tspan fill="#8a5a00">Agents</tspan>:<tspan class="cc"> .................................... </tspan><tspan fill="#174a7e">Computer Use / Personal Agent</tspan>
-<tspan x="700" y="330" class="cc">. </tspan><tspan fill="#8a5a00">AI4SE</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#174a7e">Agent Safety / Human-Agent Interaction</tspan>
-<tspan x="700" y="350" class="cc">. </tspan><tspan fill="#8a5a00">Models</tspan>:<tspan class="cc"> .................. </tspan><tspan fill="#174a7e">Vision Language Model / Full-duplex Voice Model</tspan>
-<tspan x="700" y="370" class="cc">. </tspan>
-<tspan x="700" y="390" fill="#8a5a00">- Projects</tspan><tspan fill="#b0b0b0"> -—————————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="410" class="cc">. </tspan><tspan fill="#8a5a00">QwenPaw</tspan>:<tspan class="cc"> ........................................... </tspan><tspan fill="#174a7e">agentscope-ai/QwenPaw</tspan>
-<tspan x="700" y="430" class="cc">. </tspan><tspan fill="#8a5a00">agentUniverse</tspan>:<tspan class="cc"> ............................ </tspan><tspan fill="#174a7e">agentuniverse-ai/agentUniverse</tspan>
-<tspan x="700" y="450" class="cc">. </tspan><tspan fill="#8a5a00">ANOLISA</tspan>:<tspan class="cc"> .......................................... </tspan><tspan fill="#174a7e">agentic-os-org/ANOLISA</tspan>
-<tspan x="700" y="470" class="cc">. </tspan>
-<tspan x="700" y="490" fill="#cf222e">- GitHub Stats</tspan><tspan fill="#b0b0b0"> -—————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="700" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">32</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">102</tspan>
-<tspan x="700" y="530" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">136</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">840</tspan>
-</text>
-</svg>
+<rect width="1100" height="590" rx="18" fill="#f7f7f5"/>
+<rect x="18" y="18" width="1064" height="554" rx="13" fill="#ffffff" stroke="#d8dadd"/>
+<text x="54" y="58" class="title" font-size="22" text-anchor="start">zjncs@github</text><text x="54" y="82" class="muted" font-size="13" text-anchor="start">independent spirit · free mind · keep coding</text><text x="62" y="110" class="muted" font-size="12" text-anchor="start">ASCII / STUDY</text><text x="88" y="156" class="art" font-size="20" text-anchor="start">      ###      </text><text x="88" y="177" class="art" font-size="20" text-anchor="start">     #   #     </text><text x="88" y="198" class="art" font-size="20" text-anchor="start">  ###########  </text><text x="88" y="219" class="art" font-size="20" text-anchor="start">    # ### #    </text><text x="88" y="240" class="art" font-size="20" text-anchor="start">   ## ### ##   </text><text x="88" y="261" class="art" font-size="20" text-anchor="start">  #    #    #  </text><text x="88" y="282" class="art" font-size="20" text-anchor="start">       #       </text><text x="88" y="303" class="art" font-size="20" text-anchor="start">    #######    </text><text x="88" y="324" class="art" font-size="20" text-anchor="start">               </text><text x="88" y="345" class="art" font-size="20" text-anchor="start">  ###########  </text><text x="88" y="366" class="art" font-size="20" text-anchor="start">        #      </text><text x="88" y="387" class="art" font-size="20" text-anchor="start">       #       </text><text x="88" y="408" class="art" font-size="20" text-anchor="start">      #        </text><text x="88" y="429" class="art" font-size="20" text-anchor="start">     #         </text><text x="88" y="450" class="art" font-size="20" text-anchor="start">    #          </text><text x="88" y="471" class="art" font-size="20" text-anchor="start">   #           </text><text x="88" y="492" class="art" font-size="20" text-anchor="start">  ############ </text><text x="54" y="518" class="muted" font-size="13" text-anchor="start">github.com/zjncs</text><text x="54" y="540" class="muted" font-size="13" text-anchor="start">zjncs.github.io/about</text><line x1="390" y1="46" x2="390" y2="544" stroke="#d8dadd"/><text x="430" y="62" class="label" font-size="13" text-anchor="start">PROFILE</text><text x="430" y="90" class="label" font-size="13" text-anchor="start">Name</text><text x="556" y="90" class="value" font-size="13" text-anchor="start">Jianing Zhao</text><text x="430" y="112" class="label" font-size="13" text-anchor="start">Host</text><text x="556" y="112" class="value" font-size="13" text-anchor="start">GitHub / zjncs</text><text x="430" y="134" class="label" font-size="13" text-anchor="start">IDE</text><text x="556" y="134" class="value" font-size="13" text-anchor="start">VS Code</text><text x="430" y="156" class="label" font-size="13" text-anchor="start">Languages</text><text x="556" y="156" class="value" font-size="13" text-anchor="start">Java · Python · C++ · JavaScript</text><text x="430" y="193" class="label" font-size="13" text-anchor="start">EDUCATION</text><line x1="540" y1="189" x2="1040" y2="189" stroke="#d8dadd"/><text x="430" y="218" class="muted" font-size="13" text-anchor="start">Undergraduate</text><text x="556" y="218" class="value" font-size="13" text-anchor="start">Tianjin University</text><text x="430" y="239" class="muted" font-size="13" text-anchor="start">Major</text><text x="556" y="239" class="value" font-size="13" text-anchor="start">Information Mgmt &amp; Info Systems</text><text x="430" y="260" class="muted" font-size="13" text-anchor="start">Minor</text><text x="556" y="260" class="value" font-size="13" text-anchor="start">Artificial Intelligence</text><text x="430" y="281" class="muted" font-size="13" text-anchor="start">Graduate</text><text x="556" y="281" class="value" font-size="13" text-anchor="start">UCAS / Software Engineering</text><text x="430" y="317" class="label" font-size="13" text-anchor="start">RESEARCH</text><line x1="540" y1="313" x2="1040" y2="313" stroke="#d8dadd"/><text x="430" y="342" class="muted" font-size="13" text-anchor="start">Agents</text><text x="556" y="342" class="value" font-size="13" text-anchor="start">Computer Use / GUI / Personal Agent</text><text x="430" y="363" class="muted" font-size="13" text-anchor="start">AI4SE</text><text x="556" y="363" class="value" font-size="13" text-anchor="start">Agent Safety / Human-Agent Interaction</text><text x="430" y="384" class="muted" font-size="13" text-anchor="start">Models</text><text x="556" y="384" class="value" font-size="13" text-anchor="start">Mobile LLM / Full-duplex Voice</text><text x="430" y="420" class="label" font-size="13" text-anchor="start">PROJECTS</text><line x1="540" y1="416" x2="1040" y2="416" stroke="#d8dadd"/><text x="430" y="445" class="muted" font-size="13" text-anchor="start">Open source</text><text x="556" y="445" class="value" font-size="13" text-anchor="start">SkillHub / QwenPaw / ANOLISA</text><text x="430" y="466" class="muted" font-size="13" text-anchor="start">Focus</text><text x="556" y="466" class="value" font-size="13" text-anchor="start">Agent tooling &amp; intelligent systems</text><text x="430" y="502" class="label" font-size="13" text-anchor="start">GITHUB STATS</text><line x1="560" y1="498" x2="1040" y2="498" stroke="#d8dadd"/><text x="430" y="529" class="muted" font-size="13" text-anchor="start">Repos</text><text x="530" y="529" class="value" font-size="13" text-anchor="start">32</text><text x="720" y="529" class="muted" font-size="13" text-anchor="start">Followers</text><text x="820" y="529" class="value" font-size="13" text-anchor="start">102</text><text x="430" y="554" class="muted" font-size="13" text-anchor="start">Issues</text><text x="530" y="554" class="value" font-size="13" text-anchor="start">136</text><text x="720" y="554" class="muted" font-size="13" text-anchor="start">PRs</text><text x="820" y="554" class="value" font-size="13" text-anchor="start">840</text></svg>

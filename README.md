@@ -1,27 +1,9 @@
-<pre>
-# # ### # # ###   # # ### ## # ##    zjncs@github -----------------------------------------------
-# # # # # # #   # # # # # # # # #    . Name:                         Jianing Zhao
-### ## # # # #   # # # # ## # # #    . Host:                         GitHub / zjncs
-# # # # # # #   ### # # # # # # #    . IDE:                          VS Code
-# # ### ### ### ###   ### ### # # ### ##    . Languages:                    Java, Python, C++, JavaScript
-                                        
-                                        - Education -----------------------------------------------
-                                        . Undergraduate:                Tianjin University
-                                        . - Major:                      Information Mgmt & Info Systems
-                                        . - Minor:                      Artificial Intelligence
-                                        . Graduate:                     University of Chinese Academy of Sciences
-                                        . - Major:                      Software Engineering
-                                        
-                                        - Research -------------------------------------------------
-                                        . Agents:                       Computer Use / Personal Agent
-                                        . AI4SE:                        Agent Safety / Human-Agent Interaction
-                                        . Models:                       Vision Language Model / Full-duplex Voice Model
-                                        
-                                        - Projects ------------------------------------------------
-                                        . QwenPaw:                      agentscope-ai/QwenPaw
-                                        . ANOLISA:                      agentic-os-org/ANOLISA
-                                        
-                                        - GitHub Stats --------------------------------------------
-                                        . Repos:                        32 | Followers:       102
-                                        . Issues:                       136 | PRs:             840
-</pre>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch/github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/neofetch/github-light.svg">
+  <img alt="Zhao Jianing — Neofetch profile" src="assets/neofetch/github-light.svg" width="100%">
+</picture>
+
+> Researching agents, intelligent systems, and AI for software engineering.
+
+[About me](https://zjncs.github.io/about) · [Projects](https://github.com/zjncs?tab=repositories)
