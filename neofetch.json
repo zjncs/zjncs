@@ -98,7 +98,7 @@
         },
         {
           "key": "Models",
-          "value": "GPT / Claude / Gemini",
+          "value": "Vision Language Model / Full-duplex Voice Model",
           "keyColor": "#8a5a00, #FFD75F",
           "valueColor": "#174a7e, #A5D6FF"
         }
